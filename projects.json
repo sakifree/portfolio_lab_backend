@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Trivia Game",
+    "live": "https://turmeric-project1-one.vercel.app/",
+    "git": "https://github.com/sakifree/turmeric-project1",
+    "image": "https://imgur.com/CLAi7ue"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Sneakers Den",
+    "live": "https://project-two.onrender.com/",
+    "git": "https://github.com/sakifree/turmeric-project2",
+    "image": "https://imgur.com/StlQlCh"
   }
 ]
